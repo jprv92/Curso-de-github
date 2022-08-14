@@ -1,1 +1,3 @@
-console.log("holaaa!");
+const saludarAlumnos=()=>{
+   return "Hola";
+};
