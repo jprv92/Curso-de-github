@@ -1,4 +1,4 @@
-const saludarAlumnos=()=>{};
-
-const text =saludarAlumnos();
-console.log(text);
+const drawTotalCart=(cart)=>{
+    const DOMCartTotal=document.getElementById("card-total");
+    DOMCartTotal.innerHTML =  `$ ${cart.total}`
+}
