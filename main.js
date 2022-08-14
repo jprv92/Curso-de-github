@@ -1,6 +1,4 @@
-const saludarAlumnos=()=>{
-   return "Hola";
-};
+const saludarAlumnos=()=>{};
 
 const text =saludarAlumnos();
 console.log(text);
